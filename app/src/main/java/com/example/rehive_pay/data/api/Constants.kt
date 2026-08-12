@@ -25,4 +25,5 @@ Constants {
     // Transaction Endpoints
     const val GET_TRANSACTIONS = "api/v1/transactions"
     const val TRANSFER_MONEY = "api/v1/transfer"
+
 }
