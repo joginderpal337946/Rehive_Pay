@@ -2,6 +2,12 @@
 
 Rehive Pay is a modern Android mobile wallet application. It serves as a comprehensive digital wallet, featuring a highly interactive user interface built entirely with Jetpack Compose.
 
+## 📱 App Demo
+<p align="center">
+  <img src="assets/demo.gif" width="300"/>
+</p>
+
+
 ## 📱 Features & Core Screens
 
 1. **🔐 Authentication & Session Management**
